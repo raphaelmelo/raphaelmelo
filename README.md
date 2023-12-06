@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaelmelo&label=Profile%20views&color=0e75b6&style=flat" alt="raphaelmelo" /> </p>
 
-- 🔭 I’m currently working on **Getup**
+- 🔭 I’m currently working on **Direct Data**
  
 
 <h3 align="left">Languages and Tools:</h3>
